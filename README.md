@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Gunjal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 👨‍💻 All of my projects are available at [shubhamgunjal09.github.io/ShubhamGunjalPortfolio/](shubhamgunjal09.github.io/ShubhamGunjalPortfolio/)
+- 👨‍💻 All of my projects are available at [shubhamgunjal09.github.io/ShubhamGunjalPortfolio/](shubhamgunjal09.github.io/ShubhamGunjalPortfolio/) 
 
 - 📫 How to reach me **gunjalshubham09@gmail.com**
 
