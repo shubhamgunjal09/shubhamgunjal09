@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham Gunjal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 👨‍💻 All of my projects are available at [shubhamgunjal09.github.io/ShubhamGunjalPortfolio/](shubhamgunjal09.github.io/ShubhamGunjalPortfolio/) 
+- 👨‍💻 All of my projects are available at [shubhamgunjal09.github.io/ShubhamGunjalPortfolio/](https://github.com/shubhamgunjal09) 
 
 - 📫 How to reach me **gunjalshubham09@gmail.com**
 
-- 📄 Know about my experiences [shubhamgunjal09.github.io/ShubhamGunjalPortfolio/](shubhamgunjal09.github.io/ShubhamGunjalPortfolio/)
+- 📄 Know about my experiences [shubhamgunjal09.github.io/ShubhamGunjalPortfolio/](https://shubhamgunjal09.github.io/ShubhamGunjalPortfolio/)
 
 - ⚡ Fun fact **I'm Funny😜😎**
 
