@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Gunjal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/shubhamgunjal09/blob/main/Shubham.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/shubhamgunjal09/shubhamgunjal09/blob/main/Shubham.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bankar-swapnil&label=Profile%20views&color=0e75b6&style=flat" alt="bankar-swapnil" /> </p>
 
 - 🔭 I’m currently working on **React, Java, HTML, CSS, Bootstrap**
