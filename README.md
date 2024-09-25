@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Swapnil Bankar</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Bankar-Swapnil/Bankar-Swapnil/blob/main/swapnil.gif">
+<h1 align="center">Hi 👋, I'm Shubham Gunjal</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/shubhamgunjal09/blob/main/shubham.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bankar-swapnil&label=Profile%20views&color=0e75b6&style=flat" alt="bankar-swapnil" /> </p>
 
-- 🔭 I’m currently working on **Angular, Firebase, HTML, CSS, Bootstrap**
+- 🔭 I’m currently working on **React, Java, HTML, CSS, Bootstrap**
 
-- 🌱 I’m currently learning **Angular, Firebase**
+- 🌱 I’m currently learning **React, Java**
 
-- 💬 Ask me about **Angular, Firebase**
+- 💬 Ask me about **React, Java**
 
-- 📫 How to reach me **swapnilbankar1010@gmail.com**
+- 📫 How to reach me **gunjalshubham09@gmail.com**
 
 - ⚡ Fun fact **Snakes can predict earthquakes.**
 
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td><a href="https://linkedin.com/in/swapnil bankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil bankar" height="30" width="40" /></a></td>
+    <td><a href="https://www.linkedin.com/in/shubham-gunjal-a3b757222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham Gunjal" height="30" width="40" /></a></td>
   </tr>
  </table>
 
