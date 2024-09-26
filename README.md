@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td><img  width="100%" 
-             src="https://github-readme-stats-sigma-five.vercel.app/api?username=bankar-swapnil&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="bankar-swapnil" /></td>
+             src="https://github-readme-stats-sigma-five.vercel.app/api?username=bankar-swapnil&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="Shubham Gunjal" /></td>
     <td><img   width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bankar-swapnil&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="ShubhamGuinjal" /></td>
 
   </tr>
