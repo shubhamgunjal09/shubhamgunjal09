@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Gunjal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/shubhamgunjal09/shubhamgunjal09/blob/main/Shubham.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bankar-swapnil&label=Profile%20views&color=0e75b6&style=flat" alt="bankar-swapnil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bankar-swapnil&label=Profile%20views&color=0e75b6&style=flat" alt="shubham gunjal" /> </p>
 
 - 🔭 I’m currently working on **React, Java, HTML, CSS, Bootstrap**
 
@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td><img  width="100%" 
-             src="https://github-readme-stats-sigma-five.vercel.app/api?username=bankar-swapnil&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="Shubham Gunjal" /></td>
+             src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhamgunjal09&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="Shubham Gunjal" /></td>
     <td><img   width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shubhamgunjal09&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="Shubham Guinjal" /></td>
 
   </tr>
@@ -42,8 +42,8 @@
  
  <table>
   <tr>
-    <td><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bankar-Swapnil&theme=github_dark&show_icons=true" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bankar-swapnil&theme=github_dark&show_icons=true" alt="Shubham gunjal" /></td>
+    <td><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamgunjal09&theme=github_dark&show_icons=true" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamgunjal09&theme=github_dark&show_icons=true" alt="Shubham gunjal" /></td>
   </tr>
  </table>
  
